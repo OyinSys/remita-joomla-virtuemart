@@ -1,6 +1,5 @@
 # Remita Joomla Virtuemart Payment Plugin
 
-
 ---
 - [Summary](#summary)
 - [Plugin Features](#Plugin Features)
