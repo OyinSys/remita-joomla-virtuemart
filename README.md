@@ -1,6 +1,5 @@
 # Remita Joomla Virtuemart Payment Plugin
 
-
 ---
 - [Summary](#summary)
 - [Plugin Features](#Plugin Features)
@@ -11,13 +10,13 @@
 ---
 ### Summary
 
-With Remita Joomla Virtuemart Payment Plugin, the store admin can easily add all desired payment methods to the Virtuemart webshop. Please refer to https://www.remita.net for an overview of all features and services.
+With Remita Joomla Virtuemart Payment Plugin, the store admin can easily add all desired payment methods to the Virtuemart webshop. Please refer to https://www.remita.net for an overview of all features and services
 
 ![](readMeImage/popup.png) 
 
 ---
 
-### Plugin Features
+## Plugin Features
 
 *   __Accept payment__ via Visa Cards, Mastercards, Verve Cards and eWallets
 
